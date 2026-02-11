@@ -1,0 +1,14 @@
+[
+  {
+    "id": 3,
+    "name": "Seaside Boutique",
+    "price": 159,
+    "image": "https://images.unsplash.com/photo-1505691723518-36a9b7ffb3b6?w=1200&h=800&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Mountain Lodge",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&h=800&fit=crop"
+  }
+]
